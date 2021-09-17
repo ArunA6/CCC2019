@@ -1,10 +1,10 @@
 # CCC2019
 
 Arun Atchuthananthan
-CCC Junior 2019 Thoughts
+CCC Junior 2019 Thoughts & Review
 Score - 75/75
 
-Note: My solutions to this contest were written in Java, as it was a language I was practicing at the time and seemed capable of handling the given questions. There are likely several other solution methods which I have not identified.
+Note: My solutions to this contest were written in Java, as it was a language I was practicing at the time and seemed capable of handling the given questions. There are likely several other solution methods which I have not outlined below. If you have any comments on my solutions or even further suggestions in other languages, I would love for you to reach out.
 
 ## Problem J1: Winning Score
 
