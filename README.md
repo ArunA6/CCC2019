@@ -36,4 +36,4 @@ Difficulty - 2/10
 
 ## Problem J5: Rule of Three
 
-J5 is significantly harder than any other question on this contest, or most other hgih school coding contests in general. I believe there are multiple ways to approach it, especially depending on the language in use, but within the constraints of Java, I immediately turned to a recursive solution.
+J5 is significantly harder than any other question on this contest, or most other hgih school coding contests in general. I believe there are multiple ways to approach it, especially depending on the language in use, but within the constraints of Java, I immediately turned to a recursive solution. After some thorough consideration, I found that I would need to develop an efficient algorithm, as a recursive solution seemed as though it would work but the maximum complexity of the problem would lead to TLE errors (search up order notation and TLE errors for more information on why this is important, especially in contests).
